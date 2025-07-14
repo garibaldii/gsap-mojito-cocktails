@@ -13,7 +13,7 @@ const App = () => {
             <Navbar />
             <Hero />
             {/*div temporária para simular scroll dentro da página para podermos testar o scrolltrigger do gsap. */}
-            <div className='h-dvh bg-black'/>
+            {/* <div className='h-dvh bg-black'/> */}
         </main>
     )
 }
