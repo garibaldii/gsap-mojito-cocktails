@@ -1,12 +1,58 @@
-# React + Vite
+# 🍹 MojitoCocktails
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Site de coquetelaria desenvolvido com **Vite** e animações modernas usando a biblioteca [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/).  
+O projeto foi criado com base no vídeo do canal [JavaScript Mastery](https://www.youtube.com/@javascriptmastery), com foco em praticar animações e design front-end.
 
-Currently, two official plugins are available:
+![Preview do Projeto](https://user-images.githubusercontent.com/SEU_ID/mojito-preview.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Animações fluidas com **GSAP**
+- Design moderno e responsivo
+- Scroll suave e transições dinâmicas
+- Interface voltada para apresentação de drinks
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- [Vite](https://vitejs.dev/)
+- HTML5
+- CSS3
+- TailwindCSS
+- JavaScript (ES6+)
+- [GSAP](https://greensock.com/gsap/)
+
+---
+
+## 📁 Como utilizar
+
+> Certifique-se de ter o **Node.js** instalado em sua máquina.
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/mojitococktails.git
+Acesse a pasta do projeto:
+
+
+cd mojitococktails
+Instale as dependências:
+
+
+npm install
+Inicie o servidor de desenvolvimento:
+
+
+npm run dev
+Acesse no navegador:
+
+
+http://localhost:5173
+📷 Demonstração
+
+💡 Substitua ID_DO_VIDEO pelo link do vídeo se houver, ou use um GIF animado mostrando o projeto em ação.
+
+🎓 Créditos
+Este projeto foi baseado no vídeo tutorial do canal JavaScript Mastery, com adaptações pessoais para fins de aprendizado.
