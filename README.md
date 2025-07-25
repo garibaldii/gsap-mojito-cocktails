@@ -3,7 +3,9 @@
 Site de coquetelaria desenvolvido com **Vite** e animações modernas usando a biblioteca [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/).  
 O projeto foi criado com base no vídeo do canal [JavaScript Mastery](https://www.youtube.com/@javascriptmastery), com foco em praticar animações e design front-end.
 
-![Preview do Projeto](https://user-images.githubusercontent.com/SEU_ID/mojito-preview.png)
+![Preview](https://github.com/garibaldii/gsap-mojito-cocktails/blob/master/public/mojito-cocktails.gif)
+
+
 
 ---
 
@@ -51,8 +53,6 @@ Acesse no navegador:
 
 http://localhost:5173
 📷 Demonstração
-
-💡 Substitua ID_DO_VIDEO pelo link do vídeo se houver, ou use um GIF animado mostrando o projeto em ação.
 
 🎓 Créditos
 Este projeto foi baseado no vídeo tutorial do canal JavaScript Mastery, com adaptações pessoais para fins de aprendizado.
